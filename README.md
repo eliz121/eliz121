@@ -1,10 +1,9 @@
 <h3 align="center">🐾 Hola, bienvenid@ a mi perfil 🐾</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinkey04/cat-svg-animation/main/cat.svg" width="250">
-</p>
+![Mi Octocat](./octocat-1758253237766.png)
 
-
+ ---
+ 
 ## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
