@@ -1,6 +1,6 @@
 <h3 align="center">🐾 Hola, bienvenid@ a mi perfil 🐾</h3>
 
-![Mi Octocat](./octocat-1758253237766.png)
+<img src="./octocat-1758253237766.png" width="150" alt="Mi Octocat">
 
  ---
  
