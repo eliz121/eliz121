@@ -30,8 +30,8 @@
 
 ---
 
-## 🐾 Mensaje animado
-![Typing Cat](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFA500&lines=🐱+Hola!+Soy+Mar%C3%ADa+Mendoza;😺+Bienvenido/a+a+mi+GitHub;🐾+Miau!+Miau!)
+## 🐾 Mensaje 
+![Typing Cat](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFA500&lines=🐱+Hola!+Soy+Elizabeth+Mendoza;😺+Bienvenido/a+a+mi+GitHub;🐾+Miau!+Miau!)
 
 ---
 
