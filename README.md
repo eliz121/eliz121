@@ -1,11 +1,9 @@
-# 👋 Hola, soy Elizabeth Mendoza  
+<h3 align="center">🐾 Hola, bienvenid@ a mi perfil 🐾</h3>
 
-<img src="https://raw.githubusercontent.com/ashwinkey04/cat-svg-animation/main/cat.svg" width="250">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashwinkey04/cat-svg-animation/main/cat.svg" width="250">
+</p>
 
-😺 Bienvenido/a a mi perfil.  
-Próximamente encontrarás aquí proyectos de **Machine Learning, Deep Learning, análisis de datos de distintos ámbitos** y desarrollo web.  
-
----
 
 ## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
