@@ -37,4 +37,5 @@
 
 ## 📫 Contacto
 - ✉️ Email: elizmendoza121@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/elizabeth-mendoza-019a86251)  
+- 🔗 [Mi LinkedIn](https://www.linkedin.com/in/elizabeth-mendoza-019a86251/)
+
